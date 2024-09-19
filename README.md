@@ -1,2 +1,2 @@
-# wiki
-Deadlock coach's public Wiki
+# Wiki
+Deadlock Coach's public Wiki
